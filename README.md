@@ -20,10 +20,6 @@ Make sure you have Pdfreactor library installed in your project. Please follow t
 ```https://www.pdfreactor.com/```
 
 
-## Running
-
-
-
 ## Built With
 
 * [Eclipse](https://www.eclipse.org/) - IDE
